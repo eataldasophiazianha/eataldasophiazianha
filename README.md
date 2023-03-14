@@ -41,3 +41,8 @@
 </td>
 </tr>
 </table>
+
+<p>
+<img height="100%" width="80%" alt="snake" src="assets/github-user-contribution.svg"> 
+</a>
+</p>
