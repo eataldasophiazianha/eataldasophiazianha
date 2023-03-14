@@ -12,15 +12,14 @@
 
 <table width="100%" align="center">
 <tr>
+  
 <td align="center">
-  <br />
+  <a href="">
 <strong>Program some things</strong>
 <br />
 <br />
-<br />
-
-<p>
-
+    
+ <p>
 <img alt="computer" height="100" src="assets/nela-gluhak-pc-3.gif">
 </a>
 </p>
