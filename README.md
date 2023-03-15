@@ -20,7 +20,7 @@
 <br />
     
  <p>
-<img alt="computer" height="100" width="80%" src="assets/nela-gluhak-pc-3.gif">
+<img alt="computer" height="100" width="110" src="assets/nela-gluhak-pc-3.gif">
 </a>
 </p>
 
