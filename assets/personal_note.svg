@@ -7,15 +7,6 @@
           color: limegreen;
           font-size: 1.5em;
         }
-
-        .blink {
-          animation: blink-animation 1s steps(5, start) infinite;
-        }
-        @keyframes blink-animation {
-          to {
-            visibility: hidden;
-          }
-        }
       </style>
       <strong>My Name is Sophia and I like to</strong>
 		</div>
