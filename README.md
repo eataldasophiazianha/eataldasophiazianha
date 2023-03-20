@@ -63,8 +63,16 @@
   <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src = "https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
   <img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-
-  
+</p>
+<br>
+<p>
+<img height="50" width="75%" alt="My Name is Sophia and I like to" src="assets/cooltext432034577445286.png" />
+</p>
+<p align="center">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=eataldasophiazianha&theme=tokyonight&hide_border=true">
+<br>
+<br>
+ <img src="https://github-profile-trophy.vercel.app/?username=eataldasophiazianha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 <p>
 <img height="100%" width="80%" alt="snake" src="assets/github-user-contribution.svg"> 
