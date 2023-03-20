@@ -27,7 +27,7 @@
 </td>
 
 <td align="center">
-<a href="https://open.spotify.com/playlist/3lgsqj4rjl9GNHfJ22Fvbp?si=a3fd717f8c574768">
+<a href="https://open.spotify.com/playlist/4Sn82x6JrJJZ1fTNcDq9BI?si=d4021346903e4ff6&pt=477e9f6e4cd14113d752669b81b918cd">
 <strong>Listen to cool music</strong>
 <br />
 <br />
