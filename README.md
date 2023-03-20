@@ -23,9 +23,7 @@
 <img alt="computer" height="100" width="110" src="assets/nela-gluhak-pc-3.gif">
 </a>
 </p>
-
 </td>
-
 <td align="center">
 <a href="https://open.spotify.com/playlist/4Sn82x6JrJJZ1fTNcDq9BI?si=d4021346903e4ff6&pt=477e9f6e4cd14113d752669b81b918cd">
 <strong>Listen to cool music</strong>
@@ -47,8 +45,7 @@
 <p>
 <img height="50" alt="My Name is Sophia and I like to" src="assets/wordart.png" />
 </p>
-<br/>
-<br/>
+<br>
 <p align="center">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   &nbsp;&nbsp;&nbsp;&nbsp;
