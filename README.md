@@ -25,7 +25,7 @@
 </p>
 </td>
 <td align="center">
-<a href="https://open.spotify.com/playlist/4Sn82x6JrJJZ1fTNcDq9BI?si=d4021346903e4ff6&pt=477e9f6e4cd14113d752669b81b918cd">
+<a href="https://open.spotify.com/playlist/3lgsqj4rjl9GNHfJ22Fvbp?si=219412afb5044abf">
 <strong>Listen to cool music</strong>
 <br />
 <br />
@@ -74,6 +74,10 @@
 <br>
  <img src="https://github-profile-trophy.vercel.app/?username=eataldasophiazianha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
+<br>
+<p>
+  <img height="50" width="75%" alt="My Name is Sophia and I like to" src="assets/evilSnake.png" />
+<p/>
 <p>
 <img height="100%" width="80%" alt="snake" src="assets/github-user-contribution (1).svg"> 
 </a>
