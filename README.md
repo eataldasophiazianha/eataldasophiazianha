@@ -79,6 +79,6 @@
   <img height="50" width="75%" alt="My Name is Sophia and I like to" src="assets/evilSnake.png" />
 <p/>
 <p>
-<img height="100%" width="80%" alt="snake" src="assets/github-user-contribution (2).svg"> 
+<img height="100%" width="80%" alt="snake" src="assets/github-user-contribution (3).svg"> 
 </a>
 </p>
