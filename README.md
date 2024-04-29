@@ -53,7 +53,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"></a>
   <br>
-  <a href="#"><img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /></a>
+  <a href="#"><img src="assets/fe36cc42774743.57ee5f329fae6.gif" width = "130" /></a>
   <br>
   <br>
   
