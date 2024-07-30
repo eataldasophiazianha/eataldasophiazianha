@@ -79,6 +79,6 @@
   <a href="#"><img height="50" width="75%" alt="My Name is Sophia and I like to" src="assets/evilSnake.png" /></a>
 <p/>
 <p>
-<a href="#"><img height="100%" width="80%" alt="snake" src="assets/github-user-contribution (5).svg"></a> 
+<a href="#"><img height="100%" width="80%" alt="snake" src="assets/github-user-contribution (6).svg"></a> 
 </a>
 </p>
