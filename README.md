@@ -49,20 +49,22 @@
 <p align="center">
   <a href="#"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"></a>
+  <!-- <a href="#"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"></a> -->
+  <!-- <br> -->
+  <a href="#"><img src="assets/fe36cc42774743.57ee5f329fae6.gif" width = "130" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"></a>
   <br>
-  <a href="#"><img src="assets/fe36cc42774743.57ee5f329fae6.gif" width = "130" /></a>
-  <br>
   <br>
   
-  <a href="#"><img src = "https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=whiteE"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="#"><img src = "https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white"></a>
-  <a href="#"><img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  <a href="#"><img src = "https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></a>
   <a href="#"><img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
 </p>
 <br>
 <p>
