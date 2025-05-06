@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" /></a>
+  <a href="#"><img src="assets/github_welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" /></a>
   <br />
   <br />
   <a href="#"><img height="50" alt="My Name is Sophia and I like to" src="assets/personal_note.svg" /></a>
