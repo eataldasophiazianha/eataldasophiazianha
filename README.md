@@ -67,15 +67,10 @@
   <a href="#"><img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
 </p>
 <br>
-<p>
+<!-- <p>
 <a href="#"><img height="50" width="75%" alt="My Name is Sophia and I like to" src="assets/cooltext432034577445286.png" /></a>
-</p>
-<p align="center">
-<a href="#"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=eataldasophiazianha&theme=tokyonight&hide_border=true"></a>
-<br>
-<br>
- <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=eataldasophiazianha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /></a>
-</p>
+</p> -->
+
 <br>
 <p>
   <a href="#"><img height="50" width="75%" alt="My Name is Sophia and I like to" src="assets/evilSnake.png" /></a>
