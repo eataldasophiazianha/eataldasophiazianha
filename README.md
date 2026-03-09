@@ -43,7 +43,8 @@
 <br/>
 <br/>
 <p>
-<a href="#"><img height="50" alt="tech" src="assets/wordart.png" /></a>
+ <img width="2805" height="219" alt="Herearesomeofthetechandtoolsiuse-Herearesomeofthet (1)" src="https://github.com/user-attachments/assets/ca7fb021-7e34-4946-ac6d-ef2aa85ba401" />
+
 </p>
 <br>
 <p align="center">
@@ -56,15 +57,23 @@
   <a href="#"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"></a>
   <br>
   <br>
+
+
   
   <a href="#"><img src = "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=whiteE"></a>
   <a href="#"><img src = "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" /></a>
   <a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="#"><img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-  <a href="#"><img src = "https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a>
   <a href="#"><img src = "https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></a>
-  <a href="#"><img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
   <a href="#"><img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a href="#"><img src = "https://img.shields.io/badge/Scylla%20DB-6CD5E7?style=for-the-badge&logo=scylladb&logoColor=000"></a>
 </p>
 <br>
 <!-- <p>
